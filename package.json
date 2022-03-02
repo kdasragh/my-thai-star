@@ -1,0 +1,10 @@
+{
+  "name": "my-new-project",
+  "version": "1.22.15",
+  "description": "My New Project description.",
+  "main": "index.js",
+  "repository": {
+    "url": "https://github.com/kdasragh/my-thai-star",
+    "type": "git"
+  },
+}
