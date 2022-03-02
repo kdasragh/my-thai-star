@@ -1,6 +1,6 @@
 {
   "name": "my-new-project",
-  "version": "1.22.15",
+  "version": "1.0.0",
   "description": "My New Project description.",
   "main": "index.js",
   "repository": {
